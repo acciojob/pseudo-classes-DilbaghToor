@@ -1,5 +1,5 @@
-body{
-	background-color: skyblue;
+:root{
+	background-color: rgb(135, 206, 235);
 }
 p:first-child {
   background-color: black;
